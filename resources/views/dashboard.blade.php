@@ -24,7 +24,7 @@
         }
         .nav-item {color: #878787;}
         .account-link:hover { background: #3d68ff; }
-        .body {background: #000000}
+        .body {background: #f6f6f6}
     </style>
 </head>
 <body class="body font-family-karla flex">
