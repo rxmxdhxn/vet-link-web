@@ -33,7 +33,7 @@
             </div>
 
             <div class="flex justify-center lg:gap-x-7 sm:gap-x-10 items-center  max-w-[300px] sm:max-w-[400px] md:max-w-[500px] lg:max-w-[1190px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.09)]">
-                <div class="bg-white w-96 h-64 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
+                <div class="bg-white w-96 h-56 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
 
                     <div class="justify-center items-center flex gap-2 m-5">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
@@ -51,7 +51,7 @@
                     </div>
                 </div>
 
-                <div class="bg-white w-96 h-64 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
+                <div class="bg-white w-96 h-56 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
 
                     <div class="justify-center items-center flex gap-2 m-5">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-                <div class="bg-white w-96 h-64 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
+                <div class="bg-white w-96 h-56 rounded-[20px] shadow-[20px_4px_35px_0px_rgba(0, 0, 0, 0.1)]">
 
                     <div class="justify-center items-center flex gap-2 m-5">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
