@@ -13,5 +13,25 @@
     }
     .nav-item {color: #878787;}
     .account-link:hover { background: #3d68ff; }
-    .body {background: #b3b2b2}
+    .body {background: #ffffff}
+    html{
+        scroll-behavior: smooth
+    }
+    /* Kustomisasi scrollbar untuk WebKit */
+    ::-webkit-scrollbar {
+        width: 12px; /* Lebar scrollbar */
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1; /* Warna track */
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #888; /* Warna thumb */
+        border-radius: 10px; /* Membuat sudut membulat */
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555; /* Warna thumb saat hover */
+    }
 </style>
